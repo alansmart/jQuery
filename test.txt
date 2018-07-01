@@ -1,1 +1,6 @@
 This is a test sfile to add into git repo.
+https://github.com/alansmart/jQuery.git
+https://github.com/alansmart/jQuery.git
+https://github.com/alansmart/jQuery.git
+This is a test sfile to add into git repo.
+This is a test sfile to add into git repo.
